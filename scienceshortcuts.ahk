@@ -20,20 +20,15 @@
 
 :*?:\\alpha::{U+0391} ;			uppercase alpha Α
 :*?:\alpha::{U+03B1} ;			lowercase alpha α
-^!a::SendInput {U+03B1}
 
 :*?:\\beta::{U+0392} ;			uppercase beta Β
 :*?:\beta::{U+03B2} ;			lowercase beta β
-^!b::SendInput {U+03B2}
 
 :*?:\\gamma::{U+0393} ;			uppercase gamma Γ
 :*?:\gamma::{U+03B3} ;			lowercase gamma γ
-^!g::SendInput {U+03B3}
 
 :*?:\\delta::{U+0394} ;			uppercase delta Δ
 :*?:\delta::{U+03B4} ;			lowercase delta δ
-^!+d::SendInput {U+0394}
-^!d::SendInput {U+03B4}
 
 :*?:\\epsilon::{U+0395} ;		uppercase epsilon Ε
 :*?:\epsilon::{U+03B5} ;		lowercase epsilon ε
@@ -55,11 +50,9 @@
 
 :*?:\\lambda::{U+039B} ;		uppercase lambda Λ
 :*?:\lambda::{U+03BB} ;		lowercase lambda λ
-^!l::SendInput {U+03BB}
 
 :*?:\\mu::{U+039C} ;			uppercase mu Μ
 :*?:\mu::{U+03BC} ;			lowercase mu μ
-^!u::SendInput {U+03BC}
 :*?:\micro::{U+03BC}
 
 :*?:\\nu::{U+039D} ;			uppercase nu Ν
@@ -73,7 +66,6 @@
 
 :*?:\\pi::{U+03A0} ;			uppercase pi Π
 :*?:\pi::{U+03C0} ;			lowercase pi π
-^!p::SendInput {U+03C0}
 
 :*?:\\rho::{U+03A1} ;			uppercase rho Ρ
 :*?:\rho::{U+03C1} ;			lowercase rho ρ

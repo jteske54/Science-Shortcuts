@@ -11,7 +11,7 @@ You can download, edit, and use the '.ahk' file if you have AutoHotKey installed
 
 Symbol | Input | Output
 --- | --- | ---
-Alpha | \\alpha | Α
+Alpha | '\\alpha' | Α
   | \alpha | α
 
 Alpha							Α, α

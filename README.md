@@ -7,7 +7,7 @@ You can download, edit, and use the '.ahk' file if you have AutoHotKey installed
 
 ### Greek letters:
 
-**(Single backslash [\\] for lowercase, double backslash [\\\] for capital [eg. \\alpha, \alpha])**
+**(Single backslash [\\] for lowercase, double backslash [\\\\] for capital [eg. \\\alpha, \alpha])**
 
 | Symbol | Input | Output |
 | --- | --- | --- |

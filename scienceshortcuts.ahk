@@ -3,10 +3,9 @@
 
 :*?:\length::{U+2113} ;			ℓ
 
-:*?:\darrow::{U+21D2} ;			⇒
 :*?:\means::{U+21D2} ;			⇒
 
-:*?:\therefore::{U+2234} ;		∴
+:*?:\tf::{U+2234} ;		∴
 
 :*?:\planck::{U+045B} ;			ћ
 
@@ -17,6 +16,31 @@
 :*?:\equil::{U+21CC} ;			⇌
 
 :*?:\angstrom::{U+00C5} ;		Å
+
+:*?:\inf::{U+221E} ;			∞
+
+:*?:\lessequal::{U+2264} ;		≤
+
+:*?:\greaterequal::{U+2265} ;	≥
+
+:*?:\approx::{U+2248} ;			≈
+
+:*?:\integral::{U+222B} ;		∫
+
+:*?:\uarrow::{U+2191} ;
+
+:*?:\rarrow::{U+2192} ;
+
+:*?:\larrow::{U+2190} ;
+
+:*?:\darrow::{U+2193} ;
+
+:*?:\lrarrow::{U+2194} ;
+
+:*?:\udarrow::{U+2195} ;
+
+:*?:\pm::{U+00B1} ;
+:*?:\plusminus::{U+00B1} ;
 
 :*?:\\alpha::{U+0391} ;			uppercase alpha Α
 :*?:\alpha::{U+03B1} ;			lowercase alpha α

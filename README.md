@@ -13,6 +13,26 @@ You can download, edit, and use the '.ahk' file if you have AutoHotKey installed
 | --- | --- | --- |
 | Alpha | \\\alpha | Α |
 | | \alpha | α |
+| Beta | \\\beta | Α |
+| | \beta | α |
+| Gamma | \\\gamma | Α |
+| | \gamma | α |
+| Delta | \\\delta | Α |
+| | \delta | α |
+| Epsilon | \\\epsilon | Α |
+| | \epsilon | α |
+| Zeta | \\\alpha | Α |
+| | \alpha | α |
+| Eta | \\\alpha | Α |
+| | \alpha | α |
+| Theta | \\\alpha | Α |
+| | \alpha | α |
+| Iota | \\\alpha | Α |
+| | \alpha | α |
+| Kappa | \\\alpha | Α |
+| | \alpha | α |
+| Lambda | \\\alpha | Α |
+| | \alpha | α |
 
 Alpha							Α, α
 

@@ -23,70 +23,47 @@ You can download, edit, and use the '.ahk' file if you have AutoHotKey installed
 | | \epsilon | ε |
 | Zeta | \\\zeta | Ζ |
 | | \zeta | ζ |
-| Eta | \\\alpha | Α |
-| | \alpha | α |
-| Theta | \\\alpha | Α |
-| | \alpha | α |
-| Iota | \\\alpha | Α |
-| | \alpha | α |
-| Kappa | \\\alpha | Α |
-| | \alpha | α |
-| Lambda | \\\alpha | Α |
-| | \alpha | α |
-
-Alpha							Α, α
-
-Beta							Β, β
-
-Gamma							Γ, γ
-
-Delta							Δ, δ
-
-Epsilon							Ε, ε
-
-Zeta							Ζ, ζ
-
-Eta								Η, η
-
-Theta							Θ, θ
-
-Iota							Ι, ι
-
-Kappa							Κ, κ
-
-Lambda							Λ, λ
-
-Mu								Μ, μ
-
-Nu								Ν, ν
-
-Xi								Ξ, ξ
-
-Omnicron						Ο, ο
-
-Pi								Π, π
-
-Rho								Ρ, ρ
-
-Sigma							Σ, σ
-
-Varsigma						ς
-
-Tau								Τ, τ
-
-Upsilon							Υ, υ
-
-Phi								Φ, φ
-
-Chi								Χ, χ
-
-Psi								Ψ, ψ
-
-Omega							Ω, ω
+| Eta | \\\eta | Η |
+| | \eta | η |
+| Theta | \\\theta | Θ |
+| | \theta | θ |
+| Iota | \\\iota | Ι |
+| | \iota | ι |
+| Kappa | \\\kappa | Κ |
+| | \kappa | κ |
+| Lambda | \\\lambda | Λ |
+| | \lambda | λ |
+| Mu | \\\mu | Μ |
+| | \mu | μ |
+| Nu | \\\nu | Ν |
+| | \nu | ν |
+| Xi | \\\xi | Ξ |
+| | \xi | ξ |
+| Omnicron | \\\omnicron | Ο |
+| | \omnicron | ο |
+| Pi | \\\pi | Π |
+| | \pi | π |
+| Rho | \\\rho | Ρ |
+| | \rho | ρ |
+| Sigma | \\\sigma | Σ |
+| | \sigma | σ |
+| Varsigma | \\\varsigma | ς |
+| Tau | \\\tau | Τ |
+| | \tau | τ |
+| Upsilon | \\\upsilon | Υ |
+| | \upsilon | υ |
+| Phi | \\\phi | Φ |
+| | \phi | φ |
+| Chi | \\\chi | Χ |
+| | \chi | χ |
+| Psi | \\\psi | Ψ |
+| | \psi | ψ |
+| Omega | \\\omega | Ω |
+| | \omega | ω |
 
 ### Other symbols:
 
-**(Use single backslash [\] to access [eg. \degree])**
+**Use single backslash \\ to access (eg. \degree)**
 
 Degree			(degree)		°
 

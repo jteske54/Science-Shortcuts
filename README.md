@@ -86,6 +86,8 @@ You can download, edit, and use the '.ahk' file if you have AutoHotKey installed
 | Down Arrow | \darrow | ↓ |
 | Left Arrow | \larrow | ← |
 | Right Arrow | \rarrow | → |
+| Up\Down Arrow | \udarrow | ↕ |
+| Left/Right Arrow | \lrarrow | ↔ |
 | Plus/Minus | \pm | ± |
 | | \plusminus | ± |
 | Micro | \micro | μ |

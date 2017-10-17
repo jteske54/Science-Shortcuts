@@ -28,20 +28,20 @@
 
 :*?:\integral::{U+222B} ;		∫
 
-:*?:\uarrow::{U+2191} ;
+:*?:\uarrow::{U+2191} ;			↑
 
-:*?:\rarrow::{U+2192} ;
+:*?:\rarrow::{U+2192} ;			→
 
-:*?:\larrow::{U+2190} ;
+:*?:\larrow::{U+2190} ;			←
 
-:*?:\darrow::{U+2193} ;
+:*?:\darrow::{U+2193} ;			↓
 
-:*?:\lrarrow::{U+2194} ;
+:*?:\lrarrow::{U+2194} ;		↔
 
-:*?:\udarrow::{U+2195} ;
+:*?:\udarrow::{U+2195} ;		↕
 
-:*?:\pm::{U+00B1} ;
-:*?:\plusminus::{U+00B1} ;
+:*?:\pm::{U+00B1} ;				±
+:*?:\plusminus::{U+00B1} ;		±
 
 :*?:\\alpha::{U+0391} ;			uppercase alpha Α
 :*?:\alpha::{U+03B1} ;			lowercase alpha α

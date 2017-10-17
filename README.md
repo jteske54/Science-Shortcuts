@@ -7,22 +7,22 @@ You can download, edit, and use the '.ahk' file if you have AutoHotKey installed
 
 ### Greek letters:
 
-**(Single backslash [\\] for lowercase, double backslash [\\\\] for capital [eg. \\\alpha, \alpha])**
+**Single backslash \\\ for lowercase, double backslash \\\\ for capital (eg. \\\\alpha, \\\alpha)**
 
 | Symbol | Input | Output |
 | --- | --- | --- |
 | Alpha | \\\alpha | Α |
 | | \alpha | α |
-| Beta | \\\beta | Α |
-| | \beta | α |
-| Gamma | \\\gamma | Α |
-| | \gamma | α |
-| Delta | \\\delta | Α |
-| | \delta | α |
-| Epsilon | \\\epsilon | Α |
-| | \epsilon | α |
-| Zeta | \\\alpha | Α |
-| | \alpha | α |
+| Beta | \\\beta | Β |
+| | \beta | β |
+| Gamma | \\\gamma | Γ |
+| | \gamma | γ |
+| Delta | \\\delta | Δ |
+| | \delta | δ |
+| Epsilon | \\\epsilon | Ε |
+| | \epsilon | ε |
+| Zeta | \\\zeta | Ζ |
+| | \zeta | ζ |
 | Eta | \\\alpha | Α |
 | | \alpha | α |
 | Theta | \\\alpha | Α |

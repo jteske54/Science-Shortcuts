@@ -1,4 +1,4 @@
-# Science-Shortcuts
+# Science Shortcuts
 
 This shortcut program was made using AutoHotKey.
 You can download, edit, and use the '.ahk' file if you have AutoHotKey installed, or download the standalone '.exe' file. 

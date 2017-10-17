@@ -47,7 +47,7 @@ You can download, edit, and use the '.ahk' file if you have AutoHotKey installed
 | | \rho | ρ |
 | Sigma | \\\sigma | Σ |
 | | \sigma | σ |
-| Varsigma | \\\varsigma | ς |
+| Varsigma | \varsigma | ς |
 | Tau | \\\tau | Τ |
 | | \tau | τ |
 | Upsilon | \\\upsilon | Υ |

@@ -65,44 +65,27 @@ You can download, edit, and use the '.ahk' file if you have AutoHotKey installed
 
 **Use single backslash \\ to access (eg. \degree)**
 
-Degree			(degree)		°
-
-Length			(length)		ℓ
-
-Means			(means)			⇒
-
-Therefore		(tf)			∴
-
-Reduced Planck	(planck)		ћ
-
-Bar				(bar)			̅
-
-Hat				(hat)			̂
-
-Equilibrium		(equil)			⇌
-
-Angstrom		(angstrom)		Å
-
-Infinity		(inf)			∞
-
-Less/Equal		(lessequal)		≤
-
-Greater/Equal	(greaterequal)	≥
-
-Approximately	(approx)		≈
-
-Integral		(integral)		∫
-
-Up Arrow		(uarrow)		↑
-
-Down Arrow		(darrow)		↓
-
-Left Arrow		(larrow)		←
-
-Right Arrow		(rarrow)		→
-
-Plus/Minus		(pm)			±
-
-				(plusminus)		±
-
-Micro			(micro)			μ
+| Symbol | Input | Output |
+| --- | --- | --- |
+| Degree | \degree | ° |
+| Length | \length | ℓ |
+| Means | \means | ⇒ |
+| Therefore | \tf | ∴ |
+| | \therefore | ∴ |
+| Reduced Planck | \planck | ћ |
+| Bar (above letter) | \bar | ̅ |
+| Hat (above letter) | \hat | ̂ |
+| Equilibrium Arrow | \equil | ⇌ |
+| Angstrom | \angstrom | Å |
+| Infinity | \inf | ∞ |
+| Less Than or Equal To | \lessequal | ≤ |
+| Greater Than or Equal To | \greaterequal | ≥ |
+| Approximately | \approx | ≈ |
+| Integral | \integral | ∫ |
+| Up Arrow | \uarrow | ↑ |
+| Down Arrow | \darrow | ↓ |
+| Left Arrow | \larrow | ← |
+| Right Arrow | \rarrow | → |
+| Plus/Minus | \pm | ± |
+| | \plusminus | ± |
+| Micro | \micro | μ |

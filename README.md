@@ -81,6 +81,7 @@ You can download, edit, and use the '.ahk' file if you have AutoHotKey installed
 | Less Than or Equal To | \lessequal | ≤ |
 | Greater Than or Equal To | \greaterequal | ≥ |
 | Approximately | \approx | ≈ |
+| Triple Bar | \trip | ≡ |
 | Integral | \integral | ∫ |
 | Up Arrow | \uarrow | ↑ |
 | Down Arrow | \darrow | ↓ |

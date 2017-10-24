@@ -83,6 +83,8 @@ You can download, edit, and use the '.ahk' file if you have AutoHotKey installed
 | Approximately | \approx | ≈ |
 | Triple Bar | \trip | ≡ |
 | Integral | \integral | ∫ |
+| Dot Operator | \cdot | ⋅ |
+| Square Root | \sqrt | √ |
 | Up Arrow | \uarrow | ↑ |
 | Down Arrow | \darrow | ↓ |
 | Left Arrow | \larrow | ← |

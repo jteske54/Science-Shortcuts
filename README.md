@@ -75,6 +75,7 @@ You can download, edit, and use the '.ahk' file if you have AutoHotKey installed
 | Reduced Planck | \planck | ћ |
 | Bar (above letter) | \bar | ̅ |
 | Hat (above letter) | \hat | ̂ |
+| Umlaut (above letter) | \umlaut | ̈ |
 | Equilibrium Arrow | \equil | ⇌ |
 | Angstrom | \angstrom | Å |
 | Infinity | \inf | ∞ |

@@ -95,3 +95,7 @@ You can download, edit, and use the '.ahk' file if you have AutoHotKey installed
 | Plus/Minus | \pm | ± |
 | | \plusminus | ± |
 | Micro | \micro | μ |
+| Superscript numbers 0-9 | \^0 | ⁰ |
+| Subscript numbers 0-9 | \_0 | ₀ |
+| Superscript + | \^+ | ⁺ |
+| Superscript - | \^- | ⁻ |

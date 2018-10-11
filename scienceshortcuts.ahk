@@ -45,14 +45,17 @@
 :*?:\darrow::{U+2193} ;			↓
 
 :*?:\lrarrow::{U+2194} ;		↔
+:*?:\rlarrow::{U+2194} ;		↔
 
 :*?:\udarrow::{U+2195} ;		↕
+:*?:\duarrow::{U+2195} ;		↕
 
 :*?:\pm::{U+00B1} ;				±
 :*?:\plusminus::{U+00B1} ;		±
 
 :*?:\\alpha::{U+0391} ;			uppercase alpha Α
 :*?:\alpha::{U+03B1} ;			lowercase alpha α
+:*?:\anti::{U+03B1} ;
 
 :*?:\\beta::{U+0392} ;			uppercase beta Β
 :*?:\beta::{U+03B2} ;			lowercase beta β

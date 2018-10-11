@@ -1,7 +1,7 @@
 # Science Shortcuts
 
 This shortcut program was made using AutoHotKey.
-You can download, edit, and use the '.ahk' file if you have AutoHotKey installed, or download the standalone '.exe' file. 
+You can download, edit, and use the '.ahk' file if you have AutoHotKey installed, or download the standalone '.exe' file.
 
 ## Current list of shortcuts:
 
@@ -91,9 +91,12 @@ You can download, edit, and use the '.ahk' file if you have AutoHotKey installed
 | Left Arrow | \larrow | ← |
 | Right Arrow | \rarrow | → |
 | Up/Down Arrow | \udarrow | ↕ |
+| | \duarrow | ↕ |
 | Left/Right Arrow | \lrarrow | ↔ |
+| | \rlarrow | ↔ |
 | Plus/Minus | \pm | ± |
 | | \plusminus | ± |
+| Anti | \anti | α |
 | Micro | \micro | μ |
 | Superscript numbers 0-9 | \^0 | ⁰ |
 | Subscript numbers 0-9 | \_0 | ₀ |
